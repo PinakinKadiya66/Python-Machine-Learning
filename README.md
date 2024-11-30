@@ -1,7 +1,7 @@
-# Hotel Booking Cancellation Prediction
+# _Hotel Booking Cancellation Prediction 🏨_
 This project utilizes the Hotel_Booking dataset to predict the likelihood of booking cancellations. The dataset includes features such as hotel type, meal plan, country, deposit type, number of adults and children, and more. By analyzing this data and building a predictive model, we aim to provide insights into factors influencing cancellations, helping hotels manage reservations more effectively.
 
-# Project Structure
+## Project Structure 
 **1 Data Exploration & Pre-processing To ensure data quality and model accuracy.**
 
 - **Dataset Loading:** Load and inspect the dataset.<br>
@@ -20,13 +20,13 @@ This project utilizes the Hotel_Booking dataset to predict the likelihood of boo
 - **Random Forest Classifier:** Apply the Random Forest algorithm to make predictions.<br>
 - **Evaluation Function:** Create a function to display model metrics including Precision, Recall, Accuracy, Classification Report, and Confusion Matrix.<br>
 
-# Technologies Used
+## Technologies Used 👨‍💻
 - **Python:** Data processing and modeling.<br>
 - **Pandas & NumPy:** Data manipulation and handling.<br>
 - **Matplotlib & Seaborn:** Data visualization.<br>
 - **Scikit-learn:** Machine learning model building and evaluation.<br>
 
-# Evaluation Metrics
+## Evaluation Metrics💹
 **To assess model performance.<br>**
 
 - **Precision**<br>
