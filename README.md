@@ -1,4 +1,4 @@
-# _Hotel Booking Cancellation Prediction 🏨_
+# _Hotel Booking Cancellation Prediction_ 🏨
 This project utilizes the Hotel_Booking dataset to predict the likelihood of booking cancellations. The dataset includes features such as hotel type, meal plan, country, deposit type, number of adults and children, and more. By analyzing this data and building a predictive model, we aim to provide insights into factors influencing cancellations, helping hotels manage reservations more effectively.
 
 ## Project Structure 
